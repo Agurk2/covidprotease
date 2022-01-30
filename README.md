@@ -82,7 +82,7 @@ While we used VQE, QAOA could also be used, perhaps even preferred.
 - Jupter Notebook
 
 ## Software/Packages
-- Qisket
+- Qiskit
 - Quantum Inspire
 - getPass
 - Numpy
