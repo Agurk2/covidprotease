@@ -81,3 +81,6 @@ While we encountered some problems with simulating on QI's backend, we found tha
 - getPass
 - Numpy
 - Matplotlib
+
+## Team Statement
+We wanted to thank iQuHack2022 and its sponsors for organizing such a wonderful event. We enjoyed the guest speakers, workshops, guidance and much more.
