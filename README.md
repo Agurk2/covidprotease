@@ -27,3 +27,5 @@ The glutamine molecule is simplified to methanamine
 By attaching a carbon atom to the nitrogen, we effectively stop the glutamine's ability to break down proteins. 
 
 
+## Our solution
+
