@@ -1,1 +1,19 @@
-# covidprotease
+# Solving binding energies for the ground state protease in SARS-Cov-2
+Computes the ground state binding energies of glutamine in order to facilitate speedups in the development of novel Covid-19 vaccines. This project has been developed during the iQuHack 2022 hackathon.
+
+
+## A protease-what-now?
+
+A protease is an enzyme that works as a 'hammer', breaking down proteins into smaller amino acids and polypeptides. These amino acids and polypeptides then form long chains, allowing the virus to spread within its host.
+
+Covid-19 contains a protease called glutamine (see image).
+
+![imgsrv fcgi](https://user-images.githubusercontent.com/78431611/151695110-292973a7-323c-4388-aeaa-1ee40cb041fe.png)
+
+*National Center for Biotechnology Information. "PubChem Compound Summary for CID 5961, Glutamine" PubChem, https://pubchem.ncbi.nlm.nih.gov/compound/Glutamine. Accessed 30 January, 2022.*
+
+By blocking the protease's receptors, we effectively halt the virus' ability to spread within its host. This can be done by reacting a protease inhibitor with the protease, in order to stop the chemical process from occuring.
+
+## Problem definition
+
+Current quantum hardware is not powerful enough to simulate whole macromolecules. However, as quantum computer's get more and more powerful, so too will the ability to simulate molecular interactions. For this project, we simplified the glutamine molecule to create a so-called toy protease, in order to prove the effectiveness of quantum computer.
