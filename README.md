@@ -1,4 +1,4 @@
-Our presentation: [Presentation](https://docs.google.com/presentation/d/1nQ6jEULpBLEJL_xdE9jlFi61gCe786L6GbkFQqGCZh0/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1nQ6jEULpBLEJL_xdE9jlFi61gCe786L6GbkFQqGCZh0/edit?usp=sharing)
 # Solving binding energies for the ground state protease in SARS-Cov-2
 Computes the ground state binding energies of glutamine in order to facilitate speedups in the development of novel Covid-19 vaccines. This project has been developed during the iQuHack 2022 hackathon. This project caters toward the quantum for good and QuTech category.
 
@@ -49,6 +49,8 @@ Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire 
 
 ## Results
 
+While we encountered some problems with simulating on QI's backend, we found that carbon binds with the nitrogen in the azanide molecule at -89.8 Hartrees (-3.19 x 10¹⁶ joules). 
+<img width="401" alt="Screenshot 2022-01-30 at 13 12 42" src="https://user-images.githubusercontent.com/78431611/151699135-a6aa5433-7428-4715-a553-7bf01a1f7979.png">
 
 ## Our experience with iQuHack
 
@@ -62,7 +64,7 @@ Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire 
 "I enjoyed working with teamates from around the globe on this endeavor. The workshops, guest speakers ang guidance was great, I especially loved working and assiting on a new innovative project learning new things I didnt know previously about using quantum and chemistry etc."
 
 ### Mustafa
-
+"iQuHACK was a brilliant opportunity for me to get started with applications of quantum computing in chemistry. I've discovered how quantum optimization can help us develop new drugs by computing bonding energies. I'm looking forward to further learning in the field of quantum computing and building more applications of what I've learned."
 
 ### Vardaan
 
