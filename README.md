@@ -27,5 +27,15 @@ The glutamine molecule is simplified to methanamine
 By attaching a carbon atom to the nitrogen, we effectively stop the glutamine's ability to break down proteins. 
 
 
-## Our solution
+## Technologies
+- QBraid
+- QuantumInsprire, QuTech
+- Jupter Notebook
 
+## Software/Packages
+- Qisket
+- Quantum Inspire
+- getPass
+- Functools
+- Numpy
+- Matplotlib
