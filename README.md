@@ -53,17 +53,13 @@ While we encountered some problems with simulating on QI's backend, we found tha
 
 <img width="401" alt="Screenshot 2022-01-30 at 13 12 42" src="https://user-images.githubusercontent.com/78431611/151699135-a6aa5433-7428-4715-a553-7bf01a1f7979.png">
 
-While we only bounded a single carbon atom to the glutamince molecule, it demonstrates the ability of quantum computational chemistry in current chemical problems. As long as SARS-Cov-2 remains in the world, it will mutate and become resistent to current vaccines. By demonstrating these results using VQE, we effectively achieve speedups in the development of novel vaccines to combat the novel mutations.
-
-While we used VQE, QAOA could also be used, perhaps even preferred.
-
 ## Our experience with iQuHack
 
 ### Oliver
 "As a high school student, this experience has been eye-opening. Being able to work closely with undergrads and masters from all over the world, has given me greater insight into the world of quantum. It has shown me that I'm not alone in learning quantum -- that there are peopple out there just like me. I finally felt as though I was surrounded by people who understood and valued what I said (, as opposed to forcing my parents to listen). They filled me with optimism and believed in me. I now know that I am preparing myself for a bright and exciting future. For that, I am thankful."
 
 ### Jay
-
+"Not many times I've got the chance to work with people who are as passionate about Quantum as this team. Being my first Quantum hackathon, iQuHACK2022 has changed my perspective about approaching problems outside the comfort zone, As to say Quantum Chemistry or Biology isn't my strong area but this team filled me with enthusiasm and enabled me to me tackle this challenge. the experience was like forming new bonds by breaking some chemical ones!! I'm thankful to my team and the whole iQuHACK2022 team for this fun event!!"
 
 ### Agni
 "I enjoyed working with teamates from around the globe on this endeavor. The workshops, guest speakers ang guidance was great, I especially loved working and assiting on a new innovative project learning new things I didnt know previously about using quantum and chemistry etc."
