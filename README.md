@@ -12,7 +12,7 @@ Covid-19 contains a protease called glutamine (see image).
 
 *National Center for Biotechnology Information. "PubChem Compound Summary for CID 5961, Glutamine" PubChem, https://pubchem.ncbi.nlm.nih.gov/compound/Glutamine. Accessed 30 January, 2022.*
 
-By blocking the protease's receptors, we effectively halt the virus' ability to spread within its host. This can be done by reacting a protease inhibitor with the protease, in order to stop the chemical process from occuring.
+By blocking the protease's receptors, we effectively halt the virus' ability to spread within its host. This can be done by reacting a protease inhibitor with the protease in order to stop the chemical process from occuring.
 
 ## Problem definition
 
@@ -36,6 +36,5 @@ By attaching a carbon atom to the nitrogen, we effectively stop the glutamine's 
 - Qisket
 - Quantum Inspire
 - getPass
-- Functools
 - Numpy
 - Matplotlib
