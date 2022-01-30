@@ -68,7 +68,7 @@ While we encountered some problems with simulating on QI's backend, we found tha
 "iQuHACK was a brilliant opportunity for me to get started with applications of quantum computing in chemistry. I've discovered how quantum optimization can help us develop new drugs by computing bonding energies. I'm looking forward to further learning in the field of quantum computing and building more applications of what I've learned."
 
 ### Vardaan
-
+'iQuHACK-2022 is the coolest hackathon till date'. I feel this statement pretty much sums up my experience. Every hackathon has challenging problems, but what makes this one special, is the overall fun experience. From Dungeon Escape to Scavenger Hunt, and not to forget the chance to use a real quantum computer and interact with the various industry sponsors on Gathertown... it was definitely a one of kind experience for me :)
 
 ## Technologies
 - QBraid
