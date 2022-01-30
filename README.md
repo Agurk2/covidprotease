@@ -44,6 +44,21 @@ pip install PySCF
 ```
 Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire account](https://www.quantum-inspire.com/account/create/) is required
 
+## Our experience with iQuHack
+
+### Oliver
+
+
+### 
+
+
+### 
+
+
+###
+
+
+
 ## Technologies
 - QBraid
 - QuantumInsprire, QuTech
