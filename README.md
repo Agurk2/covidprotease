@@ -23,3 +23,7 @@ The glutamine molecule is simplified to methanamine
 ![imgsrv-1 fcgi](https://user-images.githubusercontent.com/78431611/151696812-1dba07fd-bac0-4957-9196-ea9fd54ca044.png)
 
 *National Center for Biotechnology Information. "PubChem Compound Summary for CID 450541, (111C)methanamine" PubChem, https://pubchem.ncbi.nlm.nih.gov/compound/111C_methanamine. Accessed 30 January, 2022.*
+
+By attaching a carbon atom to the nitrogen, we effectively stop the glutamine's ability to break down proteins. 
+
+
