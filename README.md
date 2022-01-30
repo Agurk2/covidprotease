@@ -50,6 +50,7 @@ Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire 
 ## Results
 
 While we encountered some problems with simulating on QI's backend, we found that carbon binds with the nitrogen in the azanide molecule at -89.8 Hartrees (-3.19 x 10¹⁶ joules). 
+
 <img width="401" alt="Screenshot 2022-01-30 at 13 12 42" src="https://user-images.githubusercontent.com/78431611/151699135-a6aa5433-7428-4715-a553-7bf01a1f7979.png">
 
 ## Our experience with iQuHack
