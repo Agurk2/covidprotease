@@ -4,8 +4,6 @@ Computes the ground state binding energies of glutamine in order to facilitate s
 
 Developed by: Oliver, Jay, Agni, Mustafa, Vardaan
 
-Inspiration from the [IBM Africa Challenge 2021](https://github.com/qiskit-community/ibm-quantum-challenge-africa-2021)
-
 ## A protease-what-now?
 
 A protease is an enzyme that works as a 'hammer', breaking down proteins into smaller amino acids and polypeptides. These amino acids and polypeptides then form long chains, allowing the virus to spread within its host.
