@@ -54,7 +54,7 @@ Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire 
 
 
 ### Agni
-
+I enjoyed working with teamates from around the globe on this endeavor. The workshops, guest speakers ang guidance was great, I especially loved working and assiting on a new innovative project learning new things I didnt know previously about using quantum and chemistry etc. 
 
 ### Mustafa
 
