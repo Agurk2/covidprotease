@@ -26,6 +26,22 @@ The glutamine molecule is simplified to methanamine
 
 By computing the bonding energy for the ground state toy protease, we can develop more sophisticated inhibitors that may be more effective against Covid variants
 
+## How to run
+
+Install the following packages:
+```
+pip install qiskit
+```
+```
+pip install quantuminspire
+```
+```
+pip install qiskit_nature
+```
+```
+pip install PySCF
+```
+Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire account](https://www.quantum-inspire.com/account/create/) is required
 
 ## Technologies
 - QBraid
