@@ -1,5 +1,5 @@
 # Solving binding energies for the ground state protease in SARS-Cov-2
-Computes the ground state binding energies of glutamine in order to facilitate speedups in the development of novel Covid-19 vaccines. This project has been developed during the iQuHack 2022 hackathon.
+Computes the ground state binding energies of glutamine in order to facilitate speedups in the development of novel Covid-19 vaccines. This project has been developed during the iQuHack 2022 hackathon. This project caters toward the quantum for good and QuTech category.
 
 
 ## A protease-what-now?
