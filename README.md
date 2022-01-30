@@ -17,3 +17,9 @@ By blocking the protease's receptors, we effectively halt the virus' ability to 
 ## Problem definition
 
 Current quantum hardware is not powerful enough to simulate whole macromolecules. However, as quantum computer's get more and more powerful, so too will the ability to simulate molecular interactions. For this project, we simplified the glutamine molecule to create a so-called toy protease, in order to prove the effectiveness of quantum computer.
+
+The glutamine molecule is simplified to methanamine
+
+![imgsrv-1 fcgi](https://user-images.githubusercontent.com/78431611/151696812-1dba07fd-bac0-4957-9196-ea9fd54ca044.png)
+
+*National Center for Biotechnology Information. "PubChem Compound Summary for CID 450541, (111C)methanamine" PubChem, https://pubchem.ncbi.nlm.nih.gov/compound/111C_methanamine. Accessed 30 January, 2022.*
