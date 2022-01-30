@@ -16,6 +16,8 @@ Covid-19 contains a protease called glutamine (see image).
 
 By blocking the protease's receptors, we effectively halt the virus' ability to spread within its host. This can be done by reacting a protease inhibitor with the protease in order to stop the chemical process from occuring.
 
+This [video](https://www.youtube.com/watch?v=WBYOfqlC8hQ) explains it well.
+
 ## Problem definition
 
 Current quantum hardware is not powerful enough to simulate whole macromolecules. However, as quantum computer's get more and more powerful, so too will the ability to simulate molecular interactions. For this project, we simplified the glutamine molecule to create a so-called toy protease, in order to prove the effectiveness of quantum computer.
@@ -44,6 +46,9 @@ pip install qiskit_nature
 pip install PySCF
 ```
 Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire account](https://www.quantum-inspire.com/account/create/) is required
+
+## Results
+
 
 ## Our experience with iQuHack
 
