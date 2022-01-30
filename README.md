@@ -53,6 +53,10 @@ While we encountered some problems with simulating on QI's backend, we found tha
 
 <img width="401" alt="Screenshot 2022-01-30 at 13 12 42" src="https://user-images.githubusercontent.com/78431611/151699135-a6aa5433-7428-4715-a553-7bf01a1f7979.png">
 
+While we only bounded a single carbon atom to the glutamince molecule, it demonstrates the ability of quantum computational chemistry in current chemical problems. As long as SARS-Cov-2 remains in the world, it will mutate and become resistent to current vaccines. By demonstrating these results using VQE, we effectively achieve speedups in the development of novel vaccines to combat the novel mutations.
+
+While we used VQE, QAOA could also be used, perhaps even preferred.
+
 ## Our experience with iQuHack
 
 ### Oliver
