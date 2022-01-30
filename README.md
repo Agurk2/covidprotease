@@ -48,13 +48,13 @@ Next, launch the Jupyter Notebook and run the code. Note that a [QuantumInspire 
 ## Our experience with iQuHack
 
 ### Oliver
-As a high school student, this experience has been eye-opening. Being able to work closely with undergrads and masters from all over the world, has given me greater insight into the world of quantum. It has shown me that I'm not alone in learning quantum -- that there are peopple out there just like me. I finally felt as though I was surrounded by people who understood and valued what I said (, as opposed to forcing my parents to listen). They filled me with optimism and believed in me. I now know that I am preparing myself for a bright and exciting future. For that, I am thankful. 
+"As a high school student, this experience has been eye-opening. Being able to work closely with undergrads and masters from all over the world, has given me greater insight into the world of quantum. It has shown me that I'm not alone in learning quantum -- that there are peopple out there just like me. I finally felt as though I was surrounded by people who understood and valued what I said (, as opposed to forcing my parents to listen). They filled me with optimism and believed in me. I now know that I am preparing myself for a bright and exciting future. For that, I am thankful."
 
 ### Jay
 
 
 ### Agni
-I enjoyed working with teamates from around the globe on this endeavor. The workshops, guest speakers ang guidance was great, I especially loved working and assiting on a new innovative project learning new things I didnt know previously about using quantum and chemistry etc. 
+"I enjoyed working with teamates from around the globe on this endeavor. The workshops, guest speakers ang guidance was great, I especially loved working and assiting on a new innovative project learning new things I didnt know previously about using quantum and chemistry etc."
 
 ### Mustafa
 
